@@ -1,0 +1,38 @@
+.gloss #nr {
+  font-weight: bold;
+}
+.gloss #nc {
+  border: 4px;
+  text-align: center;
+}
+.gloss #tr {
+  font-style: italic;
+}
+.gloss #nr-ar {
+  font-family: "Arabic Typesetting";
+  font-weight: bold;
+  direction: rtl;
+}
+.gloss #nr-fa {
+  font-family: "Urdu Typesetting";
+  font-weight: bold;
+}
+
+#nom {
+  alt: "Nominative case";
+}
+
+#acc {
+  alt: "Accusative case";
+}
+
+#gen {
+  alt: "Genitive case";
+}
+
+#def {
+  alt: "Definite article";
+  color: #00fff0;
+}
+
+/*# sourceMappingURL=gloss.css.map */
